@@ -18,7 +18,7 @@ setup(
 name="ML_Project",
 version="0.1",
 author="Shubham",
-author_email="shubham2swarnakar@gmail.com"
+author_email="shubham2swarnakar@gmail.com",
 packages=find_packages(),
 install_requires=getrequirements('requirements.txt')
 )
